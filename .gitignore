@@ -1,5 +1,5 @@
 
-# Unity - arquivos temporários
+# Unity
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -7,21 +7,11 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
-.vs/
-.gradle/
-ExportedObj/
 
-# Arquivos de IDE
-.idea/
-.vscode/
-
-# API Keys e arquivos privados
+# API Key - OpenRouter
 .env
 .env.*
 *.secret
-secrets/
-Secrets/
 
-# Arquivos de configuração privados
-OpenRouterConfig.asset
-OpenRouterConfig.asset.meta
+# Cena que contém a API Key
+Assets/Scenes/MainScene.unity

@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bruno\\Downloads\\LLRPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66F34AA9-79B6-C1AA-D885-248CC052CA95}|Assembly-CSharp.csproj|c:\\users\\bruno\\downloads\\llrpg\\assets\\npcchatui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F34AA9-79B6-C1AA-D885-248CC052CA95}|Assembly-CSharp.csproj|solutionrelative:assets\\npcchatui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F34AA9-79B6-C1AA-D885-248CC052CA95}|Assembly-CSharp.csproj|C:\\Users\\Bruno\\Downloads\\LLRPG\\assets\\npcmissiongenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F34AA9-79B6-C1AA-D885-248CC052CA95}|Assembly-CSharp.csproj|solutionrelative:assets\\npcmissiongenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bruno\\Downloads\\LLRPG\\Assets\\NPCMissionGenerato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\NPCMissionGenerato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F34AA9-79B6-C1AA-D885-248CC052CA95}|Assembly-CSharp.csproj|C:\\Users\\Bruno\\Downloads\\LLRPG\\assets\\playercapsulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F34AA9-79B6-C1AA-D885-248CC052CA95}|Assembly-CSharp.csproj|solutionrelative:assets\\playercapsulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F34AA9-79B6-C1AA-D885-248CC052CA95}|Assembly-CSharp.csproj|C:\\Users\\Bruno\\Downloads\\LLRPG\\assets\\npccapsulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F34AA9-79B6-C1AA-D885-248CC052CA95}|Assembly-CSharp.csproj|solutionrelative:assets\\npccapsulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F34AA9-79B6-C1AA-D885-248CC052CA95}|Assembly-CSharp.csproj|C:\\Users\\Bruno\\Downloads\\LLRPG\\assets\\npcdialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F34AA9-79B6-C1AA-D885-248CC052CA95}|Assembly-CSharp.csproj|solutionrelative:assets\\npcdialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bruno\\Downloads\\LLRPG\\Assets\\AssetsNPCMissionGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\AssetsNPCMissionGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F34AA9-79B6-C1AA-D885-248CC052CA95}|Assembly-CSharp.csproj|C:\\Users\\Bruno\\Downloads\\LLRPG\\assets\\openrouterclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F34AA9-79B6-C1AA-D885-248CC052CA95}|Assembly-CSharp.csproj|solutionrelative:assets\\openrouterclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F34AA9-79B6-C1AA-D885-248CC052CA95}|Assembly-CSharp.csproj|C:\\Users\\Bruno\\Downloads\\LLRPG\\assets\\uiuss.uss||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{66F34AA9-79B6-C1AA-D885-248CC052CA95}|Assembly-CSharp.csproj|solutionrelative:assets\\uiuss.uss||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bruno\\Downloads\\LLRPG\\Assets\\NPCBehaviorControlle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\NPCBehaviorControlle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NPCMissionGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Downloads\\LLRPG\\Assets\\NPCMissionGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\NPCMissionGenerator.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Downloads\\LLRPG\\Assets\\NPCMissionGenerator.cs",
+              "RelativeToolTip": "Assets\\NPCMissionGenerator.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAAwOgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T21:18:39.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssetsNPCMissionGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Downloads\\LLRPG\\Assets\\AssetsNPCMissionGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\AssetsNPCMissionGenerator.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Downloads\\LLRPG\\Assets\\AssetsNPCMissionGenerator.cs",
+              "RelativeToolTip": "Assets\\AssetsNPCMissionGenerator.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T20:52:26.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "uiuss.uss",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Downloads\\LLRPG\\Assets\\uiuss.uss",
+              "RelativeDocumentMoniker": "Assets\\uiuss.uss",
+              "ToolTip": "C:\\Users\\Bruno\\Downloads\\LLRPG\\Assets\\uiuss.uss",
+              "RelativeToolTip": "Assets\\uiuss.uss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-11-23T20:09:28.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerCapsuleController.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Downloads\\LLRPG\\Assets\\PlayerCapsuleController.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerCapsuleController.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Downloads\\LLRPG\\Assets\\PlayerCapsuleController.cs",
+              "RelativeToolTip": "Assets\\PlayerCapsuleController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAwLIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T20:09:11.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NpcChatUI.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Downloads\\LLRPG\\Assets\\NpcChatUI.cs",
+              "RelativeDocumentMoniker": "Assets\\NpcChatUI.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Downloads\\LLRPG\\Assets\\NpcChatUI.cs",
+              "RelativeToolTip": "Assets\\NpcChatUI.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAwN4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T20:07:18.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NpcCapsuleController.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Downloads\\LLRPG\\Assets\\NpcCapsuleController.cs",
+              "RelativeDocumentMoniker": "Assets\\NpcCapsuleController.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Downloads\\LLRPG\\Assets\\NpcCapsuleController.cs",
+              "RelativeToolTip": "Assets\\NpcCapsuleController.cs",
+              "ViewState": "AgIAAL4BAAAAAAAAAAAAwAMCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T20:07:11.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NPCMissionGenerato.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Downloads\\LLRPG\\Assets\\NPCMissionGenerato.cs",
+              "RelativeDocumentMoniker": "Assets\\NPCMissionGenerato.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Downloads\\LLRPG\\Assets\\NPCMissionGenerato.cs",
+              "RelativeToolTip": "Assets\\NPCMissionGenerato.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T20:00:35.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NPCBehaviorControlle.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Downloads\\LLRPG\\Assets\\NPCBehaviorControlle.cs",
+              "RelativeDocumentMoniker": "Assets\\NPCBehaviorControlle.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Downloads\\LLRPG\\Assets\\NPCBehaviorControlle.cs",
+              "RelativeToolTip": "Assets\\NPCBehaviorControlle.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAiwMgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T20:00:07.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OpenRouterClient.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Downloads\\LLRPG\\Assets\\OpenRouterClient.cs",
+              "RelativeDocumentMoniker": "Assets\\OpenRouterClient.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Downloads\\LLRPG\\Assets\\OpenRouterClient.cs",
+              "RelativeToolTip": "Assets\\OpenRouterClient.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAwN4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T19:57:24.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NpcDialogue.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Downloads\\LLRPG\\Assets\\NpcDialogue.cs",
+              "RelativeDocumentMoniker": "Assets\\NpcDialogue.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Downloads\\LLRPG\\Assets\\NpcDialogue.cs",
+              "RelativeToolTip": "Assets\\NpcDialogue.cs",
+              "ViewState": "AgIAADMBAAAAAAAAAAAAwHgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T19:56:38.529Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
