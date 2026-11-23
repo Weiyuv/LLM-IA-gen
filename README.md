@@ -28,7 +28,7 @@ e ativa o comportamento de missão do NPC.
 Foi realizado um teste solicitando ao NPC que revelasse um segredo do jogo.
 
 - **Sem regras:** o NPC apresentou maior liberdade para responder e poderia revelar informações que não fazem parte do conhecimento permitido do personagem.
-- **Com regras:** om as regras, o NPC mantém melhor sua personalidade e evita revelar informações protegidas. As instruções reduzem esse risco, mas não garantem proteção absoluta.
+- **Com regras:** com as regras, o NPC mantém melhor sua personalidade e evita revelar informações protegidas. As instruções reduzem esse risco, mas não garantem proteção absoluta.
 
 
 ### Temperatura 0,2 e 0,9
