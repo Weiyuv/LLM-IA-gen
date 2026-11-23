@@ -8,10 +8,5 @@
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
 
-# API Key - OpenRouter
-.env
-.env.*
-*.secret
-
-# Cena que contém a API Key
-Assets/Scenes/MainScene.unity
+# API Key do OpenRouter
+Assets/Scenes/SampleScene.unity
