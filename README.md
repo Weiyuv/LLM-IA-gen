@@ -53,5 +53,5 @@ Foram consideradas duas situações de falha na comunicação com o OpenRouter.
 - O NPC apenas manda mensagem de fallback.
 
 **Internet desligada:**
-- O game pausa por conta de erro.
+- O NPC não fala nada e nem manda mensagem de fallback
 
