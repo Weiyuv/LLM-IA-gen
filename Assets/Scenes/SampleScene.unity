@@ -550,7 +550,7 @@ MonoBehaviour:
   client: {fileID: 480448325}
   npc: {fileID: 1902058255}
   maxWords: 20
-  fallbackTitle: Investigue o cais
+  fallbackTitle: Investigue o porto
   fallbackObjective: "Verifique uma carga abandonada pr\xF3xima ao porto."
   fallbackReward: Uma recompensa da guilda dos mercadores.
   onMissionGenerated:
@@ -1111,15 +1111,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::NpcDialogue
   client: {fileID: 480448325}
   behavior: {fileID: 1902058255}
-  npcName: Ian, guarda do porto
+  npcName: Ian
   locationName: Porto de Vharos
   maxWords: 20
-  personality: "Ian \xE9 um guarda do porto de Vharos. \xC9 s\xE9rio, desconfiado,
+  personality: "Ian \xE9 um comerciante em porto de Vharos. \xC9 s\xE9rio, desconfiado,
     observador e leal \xE0 guilda dos mercadores. Conhece rotas de navios, hor\xE1rios
-    das mar\xE9s e rumores de piratas. N\xE3o conhece segredos do rei nem acontecimentos
-    fora de seu mundo. Tem uma missao. Tem um segredo, ele \xE9 gay."
-  maxHistoryMessages: 12
-  offlineFallback: "N\xE3o consigo conversar agora. Preciso voltar ao meu posto."
+    das mar\xE9s e rumores de piratas. N\xE3o conhece  acontecimentos fora de seu
+    mundo. Tem uma missao. Tem um segredo, ele \xE9 gay."
+  maxHistoryMessages: 20
+  offlineFallback: "N\xE3o consigo conversar agora."
   onReply:
     m_PersistentCalls:
       m_Calls:

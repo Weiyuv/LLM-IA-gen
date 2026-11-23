@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bruno\\Downloads\\LLM IA gen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38D1DEA7-EBFF-2D40-2958-BF13C657581C}|Assembly-CSharp.csproj|c:\\users\\bruno\\downloads\\llm ia gen\\assets\\npcdialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D1DEA7-EBFF-2D40-2958-BF13C657581C}|Assembly-CSharp.csproj|solutionrelative:assets\\npcdialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D1DEA7-EBFF-2D40-2958-BF13C657581C}|Assembly-CSharp.csproj|c:\\users\\bruno\\downloads\\llm ia gen\\assets\\openrouterclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D1DEA7-EBFF-2D40-2958-BF13C657581C}|Assembly-CSharp.csproj|solutionrelative:assets\\openrouterclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NpcDialogue.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Downloads\\LLM IA gen\\Assets\\NpcDialogue.cs",
+              "RelativeDocumentMoniker": "Assets\\NpcDialogue.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Downloads\\LLM IA gen\\Assets\\NpcDialogue.cs",
+              "RelativeToolTip": "Assets\\NpcDialogue.cs",
+              "ViewState": "AgIAADcBAAAAAAAAAAAiwGkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T22:20:35.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OpenRouterClient.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Downloads\\LLM IA gen\\Assets\\OpenRouterClient.cs",
+              "RelativeDocumentMoniker": "Assets\\OpenRouterClient.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Downloads\\LLM IA gen\\Assets\\OpenRouterClient.cs",
+              "RelativeToolTip": "Assets\\OpenRouterClient.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAADwv94AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T22:20:23.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
